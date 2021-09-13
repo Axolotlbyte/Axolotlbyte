@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning and working on full stack web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through mail on arjaankhan@gmail.com and through instagram on @axolotlbyte
+- 📫 Reach me through mail on arjaankhan@gmail.com and through instagram on @axolotlbyte
 
 <!---
 Axolotlbyte/Axolotlbyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
